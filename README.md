@@ -1,6 +1,6 @@
-Smart AI Prediction System
+**Smart AI Prediction System**
 
-A full-stack AI-powered prediction system using Machine Learning, Flask, Node.js, and React.
+**A full-stack AI-powered prediction system using Machine Learning, Flask, Node.js, and React.**
 
 ---
 
